@@ -6,3 +6,4 @@
 3. [选择排序、冒泡排序、插入排序](./src/kuanyan/start/sort/sort.java)
 4. [计算数组中l到r的累加和](./src/kuanyan/start/data_structure/ArraySum.java)
 5. [Math.random()方法的使用](./src/kuanyan/start/duishuqi/Random.java)
+6. [有序数组中找到num](./src/kuanyan/start/dichotomy/FindNum.java)
