@@ -10,3 +10,5 @@
 7. [有序数组中找到>=num最左的位置](./src/kuanyan/start/dichotomy/FindMostLeftNum.java)
 8. [有序数组中找到<=num最右的位置](./src/kuanyan/start/dichotomy/FindMostRightNum.java)
 9. [相邻不相等的数组中查找一处局部最小值的位置](./src/kuanyan/start/dichotomy/LocalMin.java)
+10. [单链表反转](./src/kuanyan/start/data_structure/LinkedList.java)
+11. [双连表反转](./src/kuanyan/start/data_structure/DoubleList.java)
