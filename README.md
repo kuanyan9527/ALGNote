@@ -12,3 +12,4 @@
 9. [相邻不相等的数组中查找一处局部最小值的位置](./src/kuanyan/start/dichotomy/LocalMin.java)
 10. [单链表反转](./src/kuanyan/start/data_structure/LinkedList.java)
 11. [双连表反转](./src/kuanyan/start/data_structure/DoubleList.java)
+12. [使用单链表实现队列](./src/kuanyan/start/data_structure/MyQueue.java)
