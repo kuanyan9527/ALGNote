@@ -14,3 +14,4 @@
 11. [双连表反转](./src/kuanyan/start/data_structure/DoubleList.java)
 12. [使用单链表实现队列](./src/kuanyan/start/data_structure/MyQueue.java)
 13. [使用单链表实现栈](./src/kuanyan/start/data_structure/MyStack.java)
+14. [双向链表实现双端队列](./src/kuanyan/start/data_structure/DoubleQueue.java)
