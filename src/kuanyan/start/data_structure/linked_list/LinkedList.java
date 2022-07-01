@@ -1,4 +1,4 @@
-package kuanyan.start.data_structure;
+package kuanyan.start.data_structure.linked_list;
 
 public class LinkedList<V> {
     public Node<V> head = null;

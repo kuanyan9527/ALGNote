@@ -1,4 +1,4 @@
-package kuanyan.start.data_structure;
+package kuanyan.start.data_structure.linked_list;
 
 import java.util.LinkedList;
 import java.util.Objects;
