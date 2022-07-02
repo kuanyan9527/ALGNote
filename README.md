@@ -18,3 +18,4 @@
 15. [K 个一组翻转链表](./src/kuanyan/start/data_structure/linked_list/ReverseInKNodes.java)
 16. [两个数相加](./src/kuanyan/start/data_structure/linked_list/AddTwoNumbers.java)
 17. [合并两个有序链表](./src/kuanyan/start/data_structure/linked_list/MergeTwoSortedLinkedList.java)
+18. [实现一个简单的位图BitMap](./src/kuanyan/start/bit_operation/BitMap.java)
