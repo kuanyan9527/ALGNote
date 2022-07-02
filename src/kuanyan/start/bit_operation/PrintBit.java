@@ -1,4 +1,4 @@
-package kuanyan.start;
+package kuanyan.start.bit_operation;
 
 /**
  * 打印一个整数的32位二进制
