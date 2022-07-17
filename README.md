@@ -20,3 +20,5 @@
 17. [合并两个有序链表](./src/kuanyan/start/data_structure/linked_list/MergeTwoSortedLinkedList.java)
 18. [实现一个简单的位图BitMap](./src/kuanyan/start/bit_operation/BitMap.java)
 19. [使用位运算实现加减乘除](./src/kuanyan/start/bit_operation/Arithmetic.java)
+20. [比较器的使用](./src/kuanyan/start/comparator/Base.java)
+21. [合并k个升序队列](./src/kuanyan/start/comparator/MergeQueue.java)
