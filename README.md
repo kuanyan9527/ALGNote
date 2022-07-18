@@ -23,3 +23,6 @@
 20. [比较器的使用](./src/kuanyan/start/comparator/Base.java)
 21. [合并k个升序队列](./src/kuanyan/start/comparator/MergeQueue.java)
 22. [遍历二叉树](./src/kuanyan/start/data_structure/binary_tree/Foreach.java)
+23. [判断两棵树相等](./src/kuanyan/start/data_structure/binary_tree/SameTree.java)
+24. [判断一棵树是不是对称](./src/kuanyan/start/data_structure/binary_tree/MirrorTree.java)
+25. [返回一棵树的最大深度](./src/kuanyan/start/data_structure/binary_tree/TreeDepth.java)
