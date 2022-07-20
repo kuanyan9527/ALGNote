@@ -26,3 +26,4 @@
 23. [判断两棵树相等](./src/kuanyan/start/data_structure/binary_tree/SameTree.java)
 24. [判断一棵树是不是对称](./src/kuanyan/start/data_structure/binary_tree/MirrorTree.java)
 25. [返回一棵树的最大深度](./src/kuanyan/start/data_structure/binary_tree/TreeDepth.java)
+26. [根据先序数组和中序数组重建一棵树](./src/kuanyan/start/data_structure/binary_tree/RebuildTreeFromPreAndIno.java)
