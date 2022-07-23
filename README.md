@@ -28,3 +28,5 @@
 25. [返回一棵树的最大深度](./src/kuanyan/start/data_structure/binary_tree/TreeDepth.java)
 26. [根据先序数组和中序数组重建一棵树](./src/kuanyan/start/data_structure/binary_tree/RebuildTreeFromPreAndIno.java)
 27. [按层遍历一棵树并逆序返回](./src/kuanyan/start/data_structure/binary_tree/LayerForeach.java)
+28. [判断一棵树是否为平衡树](./src/kuanyan/start/data_structure/binary_tree/BalanceTree.java)
+29. [判断一棵树是否为搜索树](./src/kuanyan/start/data_structure/binary_tree/SearchTree.java)
