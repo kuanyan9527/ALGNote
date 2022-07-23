@@ -30,3 +30,5 @@
 27. [按层遍历一棵树并逆序返回](./src/kuanyan/start/data_structure/binary_tree/LayerForeach.java)
 28. [判断一棵树是否为平衡树](./src/kuanyan/start/data_structure/binary_tree/BalanceTree.java)
 29. [判断一棵树是否为搜索树](./src/kuanyan/start/data_structure/binary_tree/SearchTree.java)
+30. [判断一棵树能否组成路径和](./src/kuanyan/start/data_structure/binary_tree/PathSum.java)
+31. [收集一棵树中的所有达标路径](./src/kuanyan/start/data_structure/binary_tree/PathSumII.java)
