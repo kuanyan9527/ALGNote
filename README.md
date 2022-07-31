@@ -33,3 +33,4 @@
 30. [判断一棵树能否组成路径和](./src/kuanyan/start/data_structure/binary_tree/PathSum.java)
 31. [收集一棵树中的所有达标路径](./src/kuanyan/start/data_structure/binary_tree/PathSumII.java)
 32. [归并排序](./src/kuanyan/start/sort/MergeSort.java)
+33. [快速排序](./src/kuanyan/start/sort/QuickSort.java)
