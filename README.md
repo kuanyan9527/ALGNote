@@ -34,3 +34,10 @@
 31. [收集一棵树中的所有达标路径](./src/kuanyan/start/data_structure/binary_tree/PathSumII.java)
 32. [归并排序](./src/kuanyan/start/sort/MergeSort.java)
 33. [快速排序](./src/kuanyan/start/sort/QuickSort.java)
+
+## 提高
+1. [找出现奇数次的数，要求空间复杂度O(1)](./src/kuanyan/improve/xor/FindOnlyNumber.java)
+2. [在不额外申请变量的前提下交换两个数](./src/kuanyan/improve/xor/SwapTwoNumber.java)
+3. [找到一种出现奇数次的数](./src/kuanyan/improve/xor/FindOnlyNumber.java)
+4. [找到两种出现奇数次的数](./src/kuanyan/improve/xor/FinTwoNumber.java)
+5. [找到一种出现K次的数](./src/kuanyan/improve/xor/FIndKNumber.java)

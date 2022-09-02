@@ -1,5 +1,7 @@
 package kuanyan.common;
 
+import java.util.*;
+
 public class Common {
     public static void printIntArray(int[] array) {
         for (int i = 0, len =array.length; i < len; i++) {
@@ -54,5 +56,16 @@ public class Common {
             }
         }
         return true;
+    }
+
+    public static int[] shuffleArray(int[] array) {
+        List<Integer> list = Arrays.asList(Arrays.stream(array).boxed().toArray(Integer[]::new));
+        Collections.shuffle(list);
+        return Arrays.stream(list.toArray(new Integer[0])).mapToInt(Integer::valueOf).toArray();
+    }
+
+    // 将一个数最右侧的1提取出来
+    public static int getRightOne(int num) {
+        return num & (-num);
     }
 }
