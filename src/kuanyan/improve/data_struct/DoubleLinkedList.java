@@ -61,6 +61,7 @@ public class DoubleLinkedList<T> {
         if (size == 0) {
             return null;
         }
+        DoubleListNode<T> cur = first;
         if (size == 1) {
             first = null;
             last = null;
@@ -69,13 +70,14 @@ public class DoubleLinkedList<T> {
             first.last = null;
         }
         size--;
-        return first;
+        return cur;
     }
 
     public DoubleListNode<T> removeLast() {
         if (size == 0) {
             return null;
         }
+        DoubleListNode<T> cur = last;
         if (size == 1) {
             last = null;
             first = null;
@@ -84,7 +86,7 @@ public class DoubleLinkedList<T> {
             last.next = null;
         }
         size--;
-        return first;
+        return cur;
     }
 
     public DoubleListNode<T> reverse() {
