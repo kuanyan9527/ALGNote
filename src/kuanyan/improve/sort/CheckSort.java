@@ -1,6 +1,8 @@
 package kuanyan.improve.sort;
 
 import kuanyan.common.Common;
+import kuanyan.improve.sort.merge_sort.MergeSort;
+import kuanyan.improve.sort.merge_sort.MergeSort2;
 
 // 排序算法的对数器
 public class CheckSort {
@@ -53,6 +55,10 @@ public class CheckSort {
             SelectSort.selectSort(a3);
             int[] a4 = Common.copyIntArray(array);
             InsertSort.insertSort(a4);
+            int[] a5 = Common.copyIntArray(array);
+            MergeSort.mergeSort(a5);
+            int[] a6 = Common.copyIntArray(array);
+            MergeSort2.mergeSort(a6);
 
             if (!compareArrayEqual(a1, a2)) {
                 System.out.println("出错了");
@@ -70,6 +76,18 @@ public class CheckSort {
                 System.out.println("出错了");
                 Common.printIntArray(a1);
                 Common.printIntArray(a4);
+                break;
+            }
+            if (!compareArrayEqual(a1, a5)) {
+                System.out.println("MergeSort出错了");
+                Common.printIntArray(a1);
+                Common.printIntArray(a5);
+                break;
+            }
+            if (!compareArrayEqual(a1, a6)) {
+                System.out.println("MergeSort2出错了");
+                Common.printIntArray(a1);
+                Common.printIntArray(a6);
                 break;
             }
         }
